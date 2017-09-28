@@ -1,0 +1,90 @@
+{
+  "ingredients":
+  [
+    {
+      "name": "butter",
+      "pricePerUnit": 45,
+      "calories": 16
+    },
+    {
+      "name": "egg",
+      "pricePerUnit": 80,
+      "calories": 60
+    },
+    {
+      "name": "flour",
+      "pricePerUnit": 15,
+      "calories": 20
+    },
+    {
+      "name": "coniac",
+      "pricePerUnit": 180,
+      "calories": 80
+    },
+    {
+      "name": "sugar",
+      "pricePerUnit": 15,
+      "calories": 60
+    },
+    {
+      "name": "orangeJuice",
+      "pricePerUnit": 130,
+      "calories": 300
+    },
+    {
+      "name": "bakingSoda",
+      "pricePerUnit": 60,
+      "calories": 40
+    },
+    {
+      "name": "bankingPowder",
+      "pricePerUnit": 70,
+      "calories": 20
+    },
+    {
+      "name": "margarin",
+      "pricePerUnit": 75,
+      "calories": 60
+    },
+    {
+      "name": "farinamp",
+      "pricePerUnit": 50,
+      "calories": 190
+    },
+    {
+      "name": "salt",
+      "pricePerUnit": 2,
+      "calories": 5,
+    },
+    {
+      "name": "peanut",
+      "pricePerUnit": 50,
+      "calories": 90
+    },
+    {
+      "name": "chockoMilk",
+      "pricePerUnit": 40,
+      "calories": 120
+    }
+    {
+      "name": "milk",
+      "pricePerUnit": 30,
+      "calories": 60
+    },
+    {
+      "name": "vanilla",
+      "pricePerUnit": 40,
+      "calories": 10
+    },
+    {
+      "name": "orangeShavings",
+      "pricePerUnit": 10,
+      "calories": 15
+    },
+    {
+      "name": "soda",
+      "pricePerUnit": 10,
+      "calories": 10
+    }
+  ]
+}

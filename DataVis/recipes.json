@@ -1,0 +1,149 @@
+{
+  "recipes":
+          [
+            {
+              "name": "Santa Claus Recipe 1",
+              "ingredients": [
+                {
+                  "name": "butter",
+                  "quantity": 250
+                },
+                {
+                  "name": "egg",
+                  "quantity": 8
+                },
+                {
+                  "name": "flour",
+                  "quantity": 900
+                },
+                {
+                  "name": "coniac",
+                  "quantity": 100
+                },
+                {
+                  "name": "sugar",
+                  "quantity": 500
+                },
+                {
+                  "name": "orangeJuice",
+                  "quantity": 350
+                },
+                {
+                  "name": "soda",
+                  "quantity": 15
+                },
+                {
+                  "name": "orangeShavings",
+                  "quantity": 50
+                }
+              ]
+            },
+            {
+              "name": "Santa Claus Recipe 2",
+              "ingredients": [
+                {
+                  "name": "sugar",
+                  "quantity": 600
+                },
+                {
+                  "name": "flour",
+                  "quantity": 600
+                },
+                {
+                  "name": "butter",
+                  "quantity": 300
+                },
+                {
+                  "name": "milk",
+                  "quantity": 300
+                },
+                {
+                  "name": "egg",
+                  "quantity": 6
+                },
+                {
+                  "name": "soda",
+                  "quantity": 800
+                },
+                {
+                  "name": "coniac",
+                  "quantity": 200
+                },
+                {
+                  "name": "orangeShavings",
+                  "quantity": 40
+                }
+              ]
+            },
+            {
+              "name": "Santa Claus Recipe 3",
+              "ingredients": [
+                {
+                  "name": "margarin",
+                  "quantity": 200
+                },
+                {
+                  "name": "sugar",
+                  "quantity": 600
+                },
+                {
+                  "name": "egg",
+                  "quantity": 6
+                },
+                {
+                  "name": "farinamp",
+                  "quantity": 350
+                },
+                {
+                  "name": "salt",
+                  "quantity": 6
+                },
+                {
+                  "name": "salt",
+                  "quantity": 100
+                },
+                {
+                  "name": "orangeJuice",
+                  "quantity": 100
+                },
+                {
+                  "name": "orangeShavings",
+                  "quantity": 40
+                },
+                {
+                  "name": "chockoMilk",
+                  "quantity": 60
+                },
+                {
+                  "name": "peanut",
+                  "quantity": 20
+                }
+              ]
+            },
+            {
+              "name": "Santa Claus Recipe 4",
+              "ingredients": [
+                {
+                  "name": "butter",
+                  "quantity": 400
+                },
+                {
+                  "name": "sugar",
+                  "quantity": 600
+                },
+                {
+                  "name": "egg",
+                  "quantity": 6
+                },
+                {
+                  "name": "farinamp",
+                  "quantity": 600
+                },
+                {
+                  "name": "orangeJuice",
+                  "quantity": 300
+                }
+              ]
+            }
+          ]
+}
